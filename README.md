@@ -1,16 +1,16 @@
-# Review the final project, Please open the link week-5 below, unless folium results wont show.
+# Review the final project, Please open the link week-5 below in chrome, unless folium (Map) results wont show.
+
+The purpose of this project is to find the most proper district for customers who do not have any idea about Istanbul.
+
+Paramaters are:
+- Venues
+- Population
+- Density
+- Avarage House Price
 
 
-Coursera_CapStoneProject
-IBM Data Science Professional Certificate Capstone project.
 
-Alternative links:
-Week-3
-Part1 = https://nbviewer.jupyter.org/github/alihannka/Coursera_CapStoneProject/blob/master/week-3-1.ipynb
-
-Part2 = https://nbviewer.jupyter.org/github/alihannka/Coursera_CapStoneProject/blob/master/week-3-2.ipynb
-
-Part3 = https://nbviewer.jupyter.org/github/alihannka/Coursera_CapStoneProject/blob/master/Week-3-3.ipynb
+IBM Data Science Professional Certificate, Capstone project.
 
 Week-5
 https://nbviewer.jupyter.org/github/alihannka/Coursera_CapStoneProject/blob/master/Week-5-Final.ipynb

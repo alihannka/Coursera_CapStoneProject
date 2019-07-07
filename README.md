@@ -1,4 +1,4 @@
-# Review the final project, Please open the link week-5 below in chrome, unless folium (Map) results wont show.
+# Review the final project, Please open the link week-5 below in chrome, unless folium (Map) results wont show up.
 
 The purpose of this project is to find the most proper district for customers who do not have any idea about Istanbul.
 
